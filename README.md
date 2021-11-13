@@ -3,7 +3,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://imagenes.elpais.com/resizer/0i85DwSJJWPbIxgv2xrjoQwFuoM=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/OPGLTB6ZGERIU4Y2ZTJNUVVCRA.gif)
 
 <h1> Hi, I'm Xiomara Chunga Carrillo! <img src="https://phoneky.co.uk/thumbs/screensavers/down/new/love-romance/beatinghea_Gdp5beu9.gif" width="80"></h1>
-<img align='right' src="https://phoneky.co.uk/thumbs/screensavers/down/abstract/abstract_73mtxcqd.gif" width="320">
+<img align='right' src="https://phoneky.co.uk/thumbs/screensavers/down/abstract/abstract_73mtxcqd.gif" width="290">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=XiomaraChungaCarrillo&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
 
