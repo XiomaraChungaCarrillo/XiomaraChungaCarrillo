@@ -23,7 +23,7 @@
 <h2>Bioinformática 🔬 ~ Baby Scientist 👩‍🔬  ~ Pyhton Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
 
 
- <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play››</b></em>
+ <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«Let's be that ray of hope🌠 so that humanity continues to believe that beautiful people of soul still exist 🦋››</b></em>
  
  
 <div style="display: inline_block"><br>
