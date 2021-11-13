@@ -23,7 +23,7 @@
 
 
 
-<h2>Bioingeniería 🔬 ~ Baby Scientist 👩‍🔬  ~ Pyhton Developer ~ Data Science 👩🏻‍💻  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
+<h2>Bioinformática 🔬 ~ Baby Scientist 👩‍🔬  ~ Pyhton Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
 
 
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play››</b></em>
