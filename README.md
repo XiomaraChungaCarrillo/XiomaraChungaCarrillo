@@ -2,8 +2,8 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized.gif)
 
-<h1> Hi, I'm Xiomara Chunga Carrillo! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h1>
-<img align='right' src="https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized-large.gif" width="190">
+<h1> Hi, I'm Xiomara Chunga Carrillo! <img src="https://media.giphy.com/media/30pdYnh6VSw5mWD0Z0/giphy.gif" width="25"></h1>
+<img align='right' src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="190">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=XiomaraChungaCarrillo&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
 
