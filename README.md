@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized-large.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized.gif)
 
 <h1> Hi, I'm Xiomara Chunga Carrillo! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/ZBQJXF4aS8u2owCAuC/giphy-downsized-large.gif" width="190">
