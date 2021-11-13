@@ -29,14 +29,19 @@
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play››</b></em>
  
  
-<img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
-<img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Cocoapods" height="40px" src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png" />
-<img align="left" alt="Alamofire" height="40px" src="https://koenig-media.raywenderlich.com/uploads/2019/12/AlamofireGettingStarted-feature.png" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="bia-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="bia-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="bia-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="bia-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="bia-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" data-canonical-src="https://ieqfb.com/wp-content/uploads/master-en-bioinformatica.jpg?width=473&height=473" style="max-width: 100%;">
+</div>
   
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/XiomaraChungaCarrillo/XiomaraChungaCarrillo/blob/output/github-contribution-grid-snake.svg)
