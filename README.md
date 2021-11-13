@@ -23,7 +23,7 @@
 
 
 
-<h2>Bioinformática - Python Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
+<h2>Bioinformática - Python Developer  <img src="https://i.pinimg.com/originals/14/8e/af/148eaf9f97c69b25abc69d1ed5f51f58.gif" width=150"></h2>
 
 
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play››</b></em>
