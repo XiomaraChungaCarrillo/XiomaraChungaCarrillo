@@ -5,7 +5,7 @@
 <h1> Hi, I'm Xiomara Chunga Carrillo! <img src="https://phoneky.co.uk/thumbs/screensavers/down/new/love-romance/beatinghea_Gdp5beu9.gif" width="80"></h1>
 <img align='right' src="https://phoneky.co.uk/thumbs/screensavers/down/abstract/abstract_73mtxcqd.gif" width="290">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=XiomaraChungaCarrillo&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dracula)
 
@@ -39,5 +39,3 @@
 </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-![Snake animation](https://github.com/IrwinBravoOporto/IrwinBravoOporto/blob/output/github-contribution-grid-snake.svg)
