@@ -23,7 +23,7 @@
 <h2>Bioinformática 🔬 ~ Baby Scientist 👩‍🔬  ~ Pyhton Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
 
 
- <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«Let's be that ray of hope🌠 so that humanity continues to believe that beautiful people of soul still exist 🦋››</b></em>
+ <img src="https://phoneky.co.uk/thumbs/screensavers/down/new/love-romance/beatinghea_Gdp5beu9.gif" width="50"> <em><b>« Let's be that ray of hope🌠 so that humanity continues to believe that beautiful people of soul still exist 🦋 ››</b></em>
  
  
 <div style="display: inline_block"><br>
