@@ -7,7 +7,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=XiomaraChungaCarrillo&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiomaraChungaCarrillo&count_private=true&layout=compact&theme=dracula)
 
 
 <div> 
