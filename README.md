@@ -15,7 +15,7 @@
   <a href = "xiomara.chunga@utec.edu.pe"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h2> Bioinformática 🔬 ~ BioPython 👩‍🔬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
+<h2> Bioinformática 🔬 ~ iOS Developer 👩🏻‍💻 ~ BioPython 👩‍🔬 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50"></h2>
 
 
  <img src="https://phoneky.co.uk/thumbs/screensavers/down/new/love-romance/beatinghea_Gdp5beu9.gif" width="40"> <em><b>« Let's be that ray of hope🌠 so that humanity continues to believe that beautiful people of soul still exist 🦋 ››</b></em>
